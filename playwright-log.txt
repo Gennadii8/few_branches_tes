@@ -1,0 +1,64 @@
+{"level":30,"time":"2022-10-31T12:51:38.831Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Listening on 54101"}
+{"level":30,"time":"2022-10-31T12:51:39.016Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:39.016Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:39.019Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:39.019Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:39.027Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-10-31T12:51:39.460Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-10-31T12:51:39.469Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method newContext"}
+{"level":30,"time":"2022-10-31T12:51:39.470Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-10-31T12:51:39.470Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Trace file: "}
+{"level":30,"time":"2022-10-31T12:51:39.484Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Changed active context"}
+{"level":30,"time":"2022-10-31T12:51:39.484Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method newContext"}
+{"level":30,"time":"2022-10-31T12:51:39.493Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-10-31T12:51:39.493Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-10-31T12:51:39.622Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Video path: undefined"}
+{"level":30,"time":"2022-10-31T12:51:39.622Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Changed active page"}
+{"level":30,"time":"2022-10-31T12:51:41.305Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method newPage"}
+{"level":30,"time":"2022-10-31T12:51:41.310Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2022-10-31T12:51:41.357Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2022-10-31T12:51:41.361Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method click"}
+{"level":30,"time":"2022-10-31T12:51:41.361Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Strict mode is enabled, find Locator with xpath=//button[@id='onetrust-accept-btn-handler'] in page."}
+{"level":30,"time":"2022-10-31T12:51:42.013Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method click"}
+{"level":30,"time":"2022-10-31T12:51:42.019Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-10-31T12:51:42.020Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Strict mode is enabled, find Locator with xpath=(//input[contains(@name, 'first_name')])[1] in page."}
+{"level":30,"time":"2022-10-31T12:51:42.260Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method fillText"}
+{"level":30,"time":"2022-10-31T12:51:42.265Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-10-31T12:51:42.265Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Strict mode is enabled, find Locator with xpath=(//input[contains(@name, 'last_name')])[1] in page."}
+{"level":30,"time":"2022-10-31T12:51:42.289Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method fillText"}
+{"level":30,"time":"2022-10-31T12:51:42.293Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-10-31T12:51:42.293Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Strict mode is enabled, find Locator with xpath=(//input[contains(@name, 'email')])[1] in page."}
+{"level":30,"time":"2022-10-31T12:51:42.314Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method fillText"}
+{"level":30,"time":"2022-10-31T12:51:42.320Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-10-31T12:51:42.320Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Strict mode is enabled, find Locator with xpath=(//input[contains(@name, 'company')])[1] in page."}
+{"level":30,"time":"2022-10-31T12:51:42.602Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method fillText"}
+{"level":30,"time":"2022-10-31T12:51:42.606Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-10-31T12:51:42.606Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Strict mode is enabled, find Locator with xpath=(//select[contains(@name, 'country')])[1] in page."}
+{"level":30,"time":"2022-10-31T12:51:42.661Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Option entries: 241"}
+{"level":30,"time":"2022-10-31T12:51:42.661Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-10-31T12:51:42.661Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-10-31T12:51:42.678Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:42.682Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:42.685Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:42.688Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:42.690Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Changed active context"}
+{"level":30,"time":"2022-10-31T12:51:42.691Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Changing current active page"}
+{"level":30,"time":"2022-10-31T12:51:42.691Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Changed active page"}
+{"level":30,"time":"2022-10-31T12:51:42.696Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:42.703Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:42.705Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-10-31T12:51:42.705Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-10-31T12:51:42.707Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-10-31T12:51:42.707Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-10-31T12:51:42.726Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:42.728Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:42.730Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Changed active context"}
+{"level":30,"time":"2022-10-31T12:51:42.730Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Changing current active page"}
+{"level":30,"time":"2022-10-31T12:51:42.730Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Changed active page"}
+{"level":30,"time":"2022-10-31T12:51:42.731Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-10-31T12:51:42.754Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Removed page=0b906a12-628d-4df9-921e-31e382d98c44 from context=162388d0-cffd-4f11-836d-83142db78c0b page stack"}
+{"level":30,"time":"2022-10-31T12:51:43.152Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-10-31T12:51:43.157Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:43.158Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-31T12:51:45.187Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-10-31T12:51:45.387Z","pid":10140,"hostname":"LAPTOP-AFM637TE","msg":"End of node method closeAllBrowsers"}
