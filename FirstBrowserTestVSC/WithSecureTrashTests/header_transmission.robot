@@ -16,6 +16,8 @@ Fill form normal
     Click    xpath=//a[normalize-space()='Innovation programs']
 
     Eat All Cookies
+
+    
     
 
 *** Keywords ***
