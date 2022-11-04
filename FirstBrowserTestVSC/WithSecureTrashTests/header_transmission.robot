@@ -16,7 +16,7 @@ Fill form normal
     Click    xpath=//a[normalize-space()='Innovation programs']
 
     Eat All Cookies
-
+    Log    It's second branch
     
     
 
